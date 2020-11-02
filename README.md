@@ -2,13 +2,9 @@
 
 Make sure you have a JavaScript runtime such as node installed.
 
-## If you do not have ruby installed
-
-Install ruby version 2.6.0 with [rbenv](https://github.com/rbenv/rbenv).
+Install ruby version 2.6.0
 
 Install bundler with `gem install bundler`
-
-## If you already have ruby and bundler installed
 
 run `bundle install` to install all dependencies specified in the Gemfile
 
